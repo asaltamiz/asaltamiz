@@ -13,7 +13,7 @@
 const asal = {
   name: "Asal Tamiz",
   from: "Bandar Abbas, Iran",
-  birthday: "9 Aug 2007"
+  birthday: "9 Aug 2007",
   major: "Computer Engineering",
   skills: ["Java", "C", "JavaScript", "HTML", "CSS", "SQL", "Data Structuring"],
   interests: ["Creating Startups", "Exploring New Ideas", "Social Communication", "Teamwork"],

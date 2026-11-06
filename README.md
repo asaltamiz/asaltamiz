@@ -11,7 +11,6 @@
 </p>
 
 A little more about me
-javascript
 const asal = {
   name: "Asal Tamiz",
   major: "Computer Engineering",

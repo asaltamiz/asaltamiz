@@ -8,7 +8,6 @@
 </p>
 
 A little more about me
-javascript
 const asal = {
   name: "Asal Tamiz",
   from: "Bandar Abbas, Iran",
@@ -22,6 +21,7 @@ const asal = {
     instagram: "@asaltamiz_",
   },
 };
+
 
 Tech I use
 

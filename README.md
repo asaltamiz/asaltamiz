@@ -7,7 +7,9 @@
 <a href="https://www.instagram.com/asaltamiz_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
 </p>
 
-A little more about me
+### A little more about me
+
+```javascript
 const asal = {
   name: "Asal Tamiz",
   from: "Bandar Abbas, Iran",
@@ -21,9 +23,10 @@ const asal = {
     instagram: "@asaltamiz_",
   },
 };
+```
 
 
-Tech I use
+### Tech I use
 
 <p align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /></a>
